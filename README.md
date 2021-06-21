@@ -1,21 +1,20 @@
-:construction::construction::construction: Readme under construction :construction::construction::construction:
+# About me
 
-<!--
-**jesujcastillom/jesujcastillom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in 🇳🇱, I've lived in 🇨🇱 and 🇻🇪 (born & raised), I'm a Frontend developer, I've been working with different companies, lately:
 
-Here are some ideas to get you started:
+- [Adyen](https://github.com/adyen)
+- [LeasePlan](https://github.com/leaseplan-digital)
+- [Evernote](https://github.com/evernote)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love **all things JavaScript**, but among those, I truly enjoy working with React, TypeScript and CSS, but for now...
+
+🌱 I'm currently playing/learning with:
+- Vue
+- D3
 
 ## 💬 Reaching out:
 
-<a href="https://twitter.com/jesujcastillom?ref_src=twsrc%5Etfw" target="_blank"><img alt="Follow me on Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jesucastillo/" target="_blank"><img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/jesujcastillom?ref_src=twsrc%5Etfw" target="_blank"><img alt="Follow me on Twitter" src="https://img.shields.io/badge/twitter-%231D9BF0.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jesucastillo/" target="_blank"><img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## Pronouns: he/him
