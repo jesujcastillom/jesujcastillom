@@ -2,15 +2,10 @@
 
 Based in 🇳🇱, I've lived in 🇨🇱 and 🇻🇪 (born & raised), I'm a Frontend developer, I've been working with different companies, lately:
 
+- [Booking.com](https://github.com/bookingcom)
 - [Adyen](https://github.com/adyen)
 - [LeasePlan](https://github.com/leaseplan-digital)
 - [Evernote](https://github.com/evernote)
-
-I love **all things JavaScript**, but among those, I truly enjoy working with React, TypeScript and CSS, but for now...
-
-🌱 I'm currently playing/learning with:
-- Vue
-- D3
 
 ## 💬 Reaching out:
 
